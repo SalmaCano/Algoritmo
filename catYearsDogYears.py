@@ -13,7 +13,7 @@ def calculate_age(human_years):
 
     # Calculamos los años de perro
     if human_years == 1:
-        dog_years = 13
+        dog_years = 10
 
 
     elif human_years == 2:
